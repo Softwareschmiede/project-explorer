@@ -1,0 +1,8 @@
+a, a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbar-brand, .navbar-brand:hover {
+  color: white;
+}
